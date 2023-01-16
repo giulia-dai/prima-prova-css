@@ -1,0 +1,21 @@
+body{
+    font-family: 'Dancing Script', cursive;
+}
+
+h1{
+    color: red;
+}
+
+.sottolineato {
+    text-decoration: underline;
+}
+
+#sfondo_giallo{
+    background-color: yellow;
+}
+
+.quadrato{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}
